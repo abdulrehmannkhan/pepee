@@ -207,7 +207,7 @@ div#s5sub img {
 }
 
 div#s5sub:before {
-    background: url(../../../../wp-content/uploads/2023/05/Group-15.png);
+    background: url(Group-15.png);
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
